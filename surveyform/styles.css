@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://images.pexels.com/photos/373883/pexels-photo-373883.jpeg);
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-position: center;
+    }
+    
+    form {
+      width:350px;;
+    background-color:#808080 ;
+      opacity:.90;
+      margin:0 auto;
+    }
+    
+    .texter{
+      color:#1f1f1f;
+    }
